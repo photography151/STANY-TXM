@@ -1,11 +1,11 @@
 {
-  "name": "STANY TXM",
+  "name": "STANY-TXM",
   "version": "1.0.0",
   "description": "A WhatsApp Bot Created By Stany tech",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name STANY TXM",
-    "stop": "pm2 stop GOTAR-XMD",
+    "stop": "pm2 stop STANY TXM",
     "restart": "pm2 restart STANY TXM"
   },
   "dependencies": {
