@@ -38,7 +38,7 @@ async (conn, mek, m, { from, reply }) => {
                 isForwarded: false,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363401658098220@newsletter',
-                    newsletterName: config.OWNER_NAME || '𝐆𝐎𝐓𝐀𝐑 𝐗𝐌𝐃',
+                    newsletterName: config.OWNER_NAME || '𝐗𝐌𝐃',
                     serverMessageId: 143
                 }
             }
