@@ -1,12 +1,12 @@
 {
-  "name": "STANY-TXM",
+  "name": "GOTAR-XMD",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By Stany tech",
+  "description": "A WhatsApp Bot Created By GotarTech",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name STANY TXM",
-    "stop": "pm2 stop STANY TXM",
-    "restart": "pm2 restart STANY TXM"
+    "start": "pm2 start index.js --deep-monitoring --attach --name GOTAR-XMD",
+    "stop": "pm2 stop GOTAR-XMD",
+    "restart": "pm2 restart GOTAR-XMD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",
