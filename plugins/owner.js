@@ -42,7 +42,7 @@ async (conn, mek, m, { from }) => {
             contextInfo: {
                 mentionedJid: [`${ownerNumber.replace('+', '')}@s.whatsapp.net`], 
                 forwardingScore: 999,
-                isForwarded: true,
+                isForwarded: false,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363401658098220@newsletter',
                     newsletterName: '-𝗫𝗠𝗗',
