@@ -16,10 +16,10 @@ cmd({
     if (!isOwner) return reply("This command is only for the bot owner.");
 
     try {
-        await reply("🔍 Checking for GOTAR-XMD updates...");
+        await reply("🔍 Checking for STANY TXM updates...");
 
         // Fetch the latest commit hash from GitHub
-        const { data: commitData } = await axios.get("https://api.github.com/repos/gotartech/GOTAR-XMD/commits/main");
+        const { data: commitData } = await axios.get("https://api.github.com/repos/Stanking11 l/STANY-TXM/commits/main");
         const latestCommitHash = commitData.sha;
 
         // Get the stored commit hash from the database
