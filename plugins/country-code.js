@@ -1,6 +1,7 @@
-const axios = require("axios");
-const { cmd } = require("../command");
+const { cmd } = require('../command');
+const config = require("../config");
 
+cmd({
 // Helper function to convert a country ISO code to its flag emoji
 function getFlagEmoji(countryCode) {
   if (!countryCode) return "";
