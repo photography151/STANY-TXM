@@ -1,10 +1,5 @@
 const config = require('../config');
 const { cmd, commands } = require('../command');
-const os = require("os");
-const { runtime } = require('../lib/functions');
-const axios = require('axios');
-const more = String.fromCharCode(8206)
-const readMore = more.repeat(4001)
 
 cmd({
     pattern: "support",
