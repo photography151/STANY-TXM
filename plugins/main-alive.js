@@ -25,7 +25,7 @@ async (conn, mek, m, { from, sender, reply }) => {
 │🖥️ *Host:* ${os.hostname()}
 │⌛ *Uptime:* ${runtime(process.uptime())}
 ╰────────────────────◉
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢᴏᴛᴀʀ ᴛᴇᴄʜ*}`;
+> *Power Stany tech*}`;
 
         await conn.sendMessage(from, {
             image: { url: `https://files.catbox.moe/m3mwia.jpg` },
