@@ -27,7 +27,7 @@ cmd({
     }
 
     // Fetch latest version data from GitHub
-    const rawVersionUrl = 'https://raw.githubusercontent.com/gotartech/GOTAR-XMD/main/data/version.json';
+    const rawVersionUrl = 'https://raw.githubusercontent.com/Stanking11/STANY-TXM/main/data/version.json';
     let latestVersion = 'Unknown';
     let latestChangelog = 'No changelog available.';
     try {
