@@ -111,15 +111,12 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
    </a>
 
 ---
- width=150 height=28/p></a> </a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 
 ## 👑 PROJECT OWNER 
 HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME STANY࿐➺
 
 <p align="">
-<a href='https://wa.me/+255612285041?text=*Hi+Mr+Developer+from+your bot+Im+here+for*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/+255612285041?text=*Hi+Mr+Developer+from+your bot+Im+here+for*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=350 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
