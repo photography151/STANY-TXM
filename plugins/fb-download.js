@@ -55,7 +55,7 @@ cmd({
       caption: `*🫟𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃*\n\n` +
         `🔖 *TITLE*: ${title}\n` +
         `📏 *QUALITY*: ${downloads.find(d => d.quality === "HD") ? "HD" : "SD"}\n\n` +
-        `> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʟɪ*`,
+        `> *© STANY-TECH*`,
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
