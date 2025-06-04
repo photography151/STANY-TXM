@@ -1,8 +1,8 @@
 {
-  "name": "STANY TXM",
-  "description": "Javascript WhatsApp bot made Stany tech",
-  "logo": "https://files.catbox.moe/fnfy39.jpg",
-  "keywords": ["STANY TXM"],
+  "name": "STANY-TXM",
+  "description": "Javascript WhatsApp bot made by ᴅʏʙʏ ᴛᴇᴄʜ",
+  "logo": "https://files.catbox.moe/m3mwia.jpg",
+  "keywords": ["STANY-TXM"],
   "success_url": "/",
 
     "stack": "container",
@@ -31,20 +31,19 @@
       "value": "public"
       
     },
-    
+
+     "ANTI_DELETE": {
+      "description": "set true for show deleted messages.",
+      "required": false,
+      "value": "true"  
+    },
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
       "value": "false"  
     },    
-  
-    "AUTO_VOICE": {
-      "description": "Make it true if want automatic voice reply .",
-      "required": false,
-      "value": "false"
-    }, 
-
+   
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": false,
@@ -79,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY  STANY TXM🖤*"
+      "value": "*SEEN YOUR STATUS BY STANY-TECH🥶*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "STANY-TECH"
+      "value": "Stany Tech*"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255750638502"
+      "value": "255612285041"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "©𝚂𝚃𝙰𝙽𝚈 𝚃𝚇𝙼"
+      "value": "MEGALODON-MD"
 
       }, 
 
@@ -132,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/mc7guj.jpg"
+      "value": "https://files.catbox.moe/m3mwia.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "> *powered by Stany tech*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙy Stany Tech*"
     },
 
       "DELETE_LINKS": {
@@ -179,9 +178,9 @@
     }, 
     
     "ANTI_DEL_PATH": {
-      "description": "change it to -same- if you want to resend deleted message in same chat",
+      "description": "change it to -same- if you want to resend deleted message in same chat othwise inbox",
       "required": false,
-      "value": "log"
+      "value": "inbox"
     }, 
 
     "ADMIN_EVENTS": {
