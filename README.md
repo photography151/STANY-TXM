@@ -102,7 +102,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
       <img alt='Deploy on Render' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/>
    </a>
    
-   **Option 6️⃣: Deploy on Replit**
+**Option 6️⃣: Deploy on Replit**
 1. [Create an Account on Replit](https://repl.it) if you don’t have one.
 2. Click the button below to deploy using Replit:
    <br>
