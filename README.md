@@ -60,103 +60,58 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 </a>
 <br> 
 
+### **Step-by-Step Deployment Guide**
 
+**Option 1️⃣: Deploy on Heroku**
+1. [Create an Account on Heroku](https://signup.heroku.com/) if you haven’t already.
+2. Click the button below to deploy directly on Heroku:
+   <br>
+   <a href='https://dashboard.heroku.com/new?template=https://github.com/Stanking11/STANY-TXM' target="_blank">
+      <img alt='Deploy on Heroku' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/>
+   </a>
+
+**Option 2️⃣: Deploy on Koyeb**
+1. [Sign Up on Koyeb](https://app.koyeb.com/auth/signup).
+3. Deploy your app using the button below:
+   <br>
+   <a href='https://github.com/Tohidkhan6332/TOHID_MD' target="_blank">
+      <img alt='Deploy on Koyeb' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=koyeb&logoColor=white'/>
+   </a>
+
+**Option 3️⃣: Deploy on Railway**
+1. [Create an Account on Railway](https://railway.app/login) if you don’t have one.
+2. Click the button below to deploy using Railway:
+   <br>
+   <a href='https://railway.app/login' target="_blank">
+      <img alt='Deploy on Railway' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway&logoColor=white'/>
+   </a>
+
+**Option 4️⃣: Deploy on Toystack**
+1. [Create an Account on Toystack](https://toystack.ai) if you don’t have one.
+2. Click the button below to deploy using Toystack:
+   <br>
+   <a href='https://toystack.ai' target="_blank">
+      <img alt='Toystack' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=toystack&logoColor=white'/>
+   </a>
+
+**Option 5️⃣: Deploy on Render**
+1. [Create an Account on Render](https://dashboard.render.com/register) if you don’t have one.
+2. Click the button below to deploy using Render:
+   <br>
+   <a href='https://dashboard.render.com' target="_blank">
+      <img alt='Deploy on Render' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/>
+   </a>
+   
+   **Option 6️⃣: Deploy on Replit**
+1. [Create an Account on Replit](https://repl.it) if you don’t have one.
+2. Click the button below to deploy using Replit:
+   <br>
+   <a href='https://repl.it/github/Stanking11/STANY-TXM' target="_blank">
+      <img alt='Deploy on Replit' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=replit&logoColor=white'/>
+   </a>
 
 ---
-
-### <h2 align="">STANY TXM DEPLOYMENT OPTIONS𐃁</h2>
-
----
-
-### <h4 align="">1. HEROKU</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-
-<p align="">
-<a href='https://dashboard.heroku.com/new-app?template=https://github.com/Stanking11/STANY-TXM' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-800080?style=for-the-badge&logo=heroku&logoColor=white'/< width=160 height=30/p></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <h4 align="">2. TALKDROVE FREE</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="">
-<a href='https://talkdrove.com/share-bot/11' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <h4 align="">3. KOYEB</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-<p align="">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=itx-alii-raza/ALI-MD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20SUBZERO-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <h4 align="">4. RAILWAY</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-<p align="">
-<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <h4 align="">5. RENDER</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="">
-<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <h4 align="">6. HUGGING FACE</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="">
-<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<details>
-  
-<b><strong><summary align="" style="color: Yello;">EASIEST METHOD 2</summary></strong></b>
-<p style="text-align: center; font-size: 1.2em;">
- 
-
-## <h3 align=""> HOW TO DEPLOY ON HUGGING FACE</h3>
-<h6 align-"center">
-*❄️ Deploy Stany Tzr ZMD On Hugging Face For Free !*
-
-`Specs :`
-- v2 CPU
-- 16GB RAM
-
-> `Steps to deploy`
-
-`Step 1`
-1. Go to hugginface.co/join and create an account and verify your email too.
-
-`Step 2`
-1. Go to https://huggingface.co/spaces/Stanking11
-
-2. Tap on *three dots* _(as shown in image)_
-
-3. Tap on *duplicate space* _(as shown in image)_
-
-`Step 3`
-1. Fill your details, e.g., Session ID, Bot Name, owner number etc...
-
-2. Tap on *duplicate space shown below*
-
-```After that wait 10 seconds & your have deployed it successfuly  for free 24/7```
-
-> STANY TECH TZ🎐
-
-*WE ARE ON FIRE*</h6>
-
-</details>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-### <h4 align="">7. REPLIT</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-<p align="">
-<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
+ width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
