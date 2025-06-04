@@ -93,7 +93,7 @@ async (conn, mek, m, { from, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363399268034293@newsletter',
-                    newsletterName: '𝐌𝐄𝐆𝐀𝐋𝐎𝐃𝐎𝐍-𝐌𝐃',
+                    newsletterName: 'STANY-TECH GAMBLING',
                     serverMessageId: 143
                 }
             }
