@@ -48,7 +48,7 @@ async (conn, mek, m, { from, reply }) => {
   ⏳ ${uptime}
   🕰️ ${startTime.toLocaleString()}
   
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅʏʙʏ ᴛᴇᴄʜ*`;
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ Stany Tech*`;
 
         // Style 6: Retro Terminal
         const style6 = `╔══════════════════════╗
@@ -67,7 +67,7 @@ async (conn, mek, m, { from, reply }) => {
 📅 Since: ${startTime.toLocaleString()}
 
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅʏʙʏ ᴛᴇᴄʜ*`;
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ Stany Tech*`;
 
         
         // Style 10: Professional
@@ -80,7 +80,7 @@ async (conn, mek, m, { from, reply }) => {
 ◈ Stability: 100%
 ◈ Version:  1.0.0
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅʏʙʏ ᴛᴇᴄʜ*`;
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ Stany Tech*`;
 
         const styles = [style1, style3, style4, style5, style6, style8, style10];
         const selectedStyle = styles[Math.floor(Math.random() * styles.length)];
@@ -90,9 +90,9 @@ async (conn, mek, m, { from, reply }) => {
             contextInfo: {
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
-                isForwarded: false,
+                isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363401051937059@newsletter',
+                    newsletterJid: '120363399268034293@newsletter',
                     newsletterName: '𝐌𝐄𝐆𝐀𝐋𝐎𝐃𝐎𝐍-𝐌𝐃',
                     serverMessageId: 143
                 }
