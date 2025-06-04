@@ -1,7 +1,22 @@
 FROM node:lts-buster
+
+RUN apt-get update && \
+  apt-get install -y \
+  ffmpeg \
+  imagemagick \
+  webp && \
+  apt-get upgrade -y && \
+  npm i pm2 -g && \
+  rm -rf /var/lib/apt/lists/*
+
 RUN git clone https://github.com/Stanking11/STANY-TXM/root/ikJawad
 WORKDIR /root/ikJawad
-RUN npm install && npm install -g pm2 || yarn install --network-concurrency 1
+COPY package.json .
+RUN npm install pm2 -g
+RUN npm install --legacy-peer-deps
+
 COPY . .
-EXPOSE 9090
-CMD ["npm", "start"]
+
+EXPOSE 5000
+
+CMD ["node", "index.js"]
