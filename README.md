@@ -113,61 +113,33 @@ FOR NOW USE THIS I WILL FIX MY PAIR SOON$
    </a>
 
 ---
+----------
+### 🧑‍💻 Connect with the Developer
 
-## 👑 PROJECT OWNER 
-HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME STANY࿐➺
-
-<p align="">
-<a href='https://wa.me/+255612285041?text=*Hi+Mr+Developer+from+your bot+Im+here+for*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=68/p></a> </a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-## 🪀 WHATSAPP CHANNEL 
-STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
-
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb5RfcrJ3jv4u0wJwd0r)
-
-## 🪀 WHATSAPP GROUP
-JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
-
-[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/FyQdRTWZAyi8xrd2KOHxgr)
-
- 
+<p align="center">
+  <a href="https://github.com/Stanking11">
+    <img src="https://img.shields.io/badge/GitHub-Stanking11-blue?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://t.me/stanytech12">
+    <img src="https://img.shields.io/badge/Telegram-@Tohid_mewati-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://wa.me/message/255712382090">
+    <img src="https://img.shields.io/badge/WhatsApp-Click%20Here%20to%20Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://youtube.com/@stanleytechnolgy">
+    <img src="https://img.shields.io/badge/YouTube-@Stany2-000000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+</p>
+### 📄 License
+This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICENSE file for details.
 
 
-***
 
-## <h2 align="left">⚠️ REMINDER </h2>
-<p style="text-align: center; font-size: 1.2em;">
+## ⚠️ Disclaimer
 
-- **DISCLAIMER:** THIS BOT IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
-- MISUSING THE BOT MAY RESULT IN YOUR `WhatsApp` ACCOUNT BEING BANNED. NOTE THAT YOU CAN ONLY UNBAN YOUR ACCOUNT ONCE.
-- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING.
+*This Bot is not affiliated with WhatsApp Inc. Misusing the bot could result in a temporary or permanent WhatsApp ban. Stany Tz is not responsible for any bans or restrictions that may occur.*
 
 ---
 
-<h2 align="left">ℹ️ NOTICE</h2>
-<p style="text-align: center; font-size: 1.2em;">
-  NOT FOR SALE - IF ANY PLUGIN'S CODE IS OBFUSCATED, YOU DO NOT HAVE PERMISSION TO EDIT IT IN ANY FORM. PLEASE REMEMBER TO GIVE CREDIT IF YOU ARE USING OR RE-UPLOADING MY PLUGINS/FILES. WISHING YOU A WONDERFUL DAY AHEAD!</p>
-  
----
-
- <br>
-<h2 align="center"> ⚠️ DISCLAIMER ⚠️
- </h2>
- 
- ---
-
-<h3 align="center"> DON'T COPY WITHOUT PERMISSION 
-</h3>
-
-<br>
-
-```
-THANK YOU FOR YOUR SUPPORT
-```
------
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-------
+<p align="center">© Stany tz2025</p>
 
