@@ -47,7 +47,8 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
 > **1. PAIR CODE SESSION ID**
-> ***. FOR NOW USE THIS I WILL FIX MY PAIR SOON$
+
+FOR NOW USE THIS I WILL FIX MY PAIR SOON$
 
 <a href='https://caseyrhodeshub-7kak.vercel.app' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
