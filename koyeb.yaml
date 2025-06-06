@@ -1,6 +1,6 @@
-name: gotar-xmd
+name: Stany Txm
 services:
-  - name: gotar-xmd-service
+  - name: stany-txm-service
     type: web
     ports:
       - 5000
