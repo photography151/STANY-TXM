@@ -121,13 +121,13 @@ FOR NOW USE THIS I WILL FIX MY PAIR SOON$
     <img src="https://img.shields.io/badge/GitHub-Stanking11-blue?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://t.me/stanytech12">
-    <img src="https://img.shields.io/badge/Telegram-Stany Tzi-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-Stany Tz-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="https://wa.me/message/255712382090">
     <img src="https://img.shields.io/badge/WhatsApp-Click%20Here%20to%20Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   <a href="https://youtube.com/@stanleytechnolgy">
-    <img src="https://img.shields.io/badge/YouTube-@Stany2-000000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-@Stany-000000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
 
@@ -140,5 +140,5 @@ This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICEN
 
 ---
 
-<p align="center">© Stany tz2025</p>
+<p align="center">© Stany tz 2025</p>
 
