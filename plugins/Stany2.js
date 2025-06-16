@@ -1,23 +1,17 @@
 const { cmd } = require("../command");
 
 cmd({
-  pattern: "vv",
-  alias: ["viewonce", 'retrive'],
-  react: '☢️',
-  desc: "Owner Only - retrieve quoted message back to user",
-  category: "owner",
+  pattern: "send",
+  alias: ["sendme", 'save'],
+  react: '📤',
+  desc: "Forwards quoted message back to user",
+  category: "utility",
   filename: __filename
-}, async (client, message, match, { from, isCreator }) => {
+}, async (client, message, match, { from }) => {
   try {
-    if (!isCreator) {
-      return await client.sendMessage(from, {
-        text: "*📛 This is an owner command.*"
-      }, { quoted: message });
-    }
-
     if (!match.quoted) {
       return await client.sendMessage(from, {
-        text: "*🍁 Please reply to a view once message!*"
+        text: "*🍁 Please reply to a message!*"
       }, { quoted: message });
     }
 
@@ -56,9 +50,9 @@ cmd({
 
     await client.sendMessage(from, messageContent, options);
   } catch (error) {
-    console.error("vv Error:", error);
+    console.error("Forward Error:", error);
     await client.sendMessage(from, {
-      text: "❌ Error fetching vv message:\n" + error.message
+      text: "❌ Error forwarding message:\n" + error.message
     }, { quoted: message });
   }
 });
